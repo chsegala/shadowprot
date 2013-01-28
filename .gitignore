@@ -1,0 +1,8 @@
+
+*.svn-base
+
+*/.svn/*
+
+*.settings*
+
+*target*
