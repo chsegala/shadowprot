@@ -1,8 +1,17 @@
 
 *.svn-base
 
-*/.svn/*
+*.svn*
 
 *.settings*
 
 *target*
+
+*.log
+
+*.project
+
+*.DS*
+
+.classpath
+.project
